@@ -1,0 +1,9 @@
+E:\EPAM\LinksManager\LinksManager.DAL\bin\Debug\LinksManager.DAL.dll.config
+E:\EPAM\LinksManager\LinksManager.DAL\bin\Debug\LinksManager.DAL.dll
+E:\EPAM\LinksManager\LinksManager.DAL\bin\Debug\LinksManager.DAL.pdb
+E:\EPAM\LinksManager\LinksManager.DAL\bin\Debug\EntityFramework.dll
+E:\EPAM\LinksManager\LinksManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPAM\LinksManager\LinksManager.DAL\bin\Debug\EntityFramework.xml
+E:\EPAM\LinksManager\LinksManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPAM\LinksManager\LinksManager.DAL\obj\Debug\LinksManager.DAL.dll
+E:\EPAM\LinksManager\LinksManager.DAL\obj\Debug\LinksManager.DAL.pdb
